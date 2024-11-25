@@ -1,19 +1,26 @@
 # Olá, eu sou Raika Soares! 👋
 
-Bem-vindo ao meu perfil no GitHub! estou  sempre em busca de novos desafios e aprendizados.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
-## 🚀 Sobre Mim
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, React Native, Node.js, Python, Git e Git GitHub]**
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Bem-vindo+ao+meu+perfil;+:%29)](https://git.io/typing-svg)
+
+
+
+## 🚀 Sobre Mim:
+  
 - Tenho 17 anos.
   
-- 📚 Hobbes : Leitora de livros de romance e fã de doramas.
+- 📚 Adoro livros de romance e sou fã de doramas.
 
 
-Habilidades Pessoais 
+## Formação profissional:
 
-- 💻 Formação Profissional:
-Atualmente cursando Informática (2º ano).
+- Cursando Informática (2º ano).
+
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, Python, Git GitHub]**
+
+## Habilidades pessoais:
 
 - 🤍 Dedicação e curiosidade em aprender.
 
@@ -58,10 +65,9 @@ Atualmente cursando Informática (2º ano).
 
 <br/>
 
-## 🔎 Onde me encontrar
-E se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em contato comigo pelos contatos abaixo! Estou sempre procurando aprender mais e trocar ideias.
+## 📱 Entre em contato:
 
-<div align="center"> 
-<a href = "mailto:raikasilva@acad.edu.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <href="https://www.linkedin.com/in/argleydson" target="_blank"><img src="https://img.shields.io/badge/Argleydson-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://www.instagram.com/raikasoaressilva/profilecard/?igsh=cDdmazNuczRnM3Nz" target="_blank"><img src="https://www.instagram.com/raikasoaressilva/profilecard/?igsh=cDdmazNuczRnM3Nz" alt="Instagram"></a>
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raikasoaressilva/profilecard/?igsh=cDdmazNuczRnM3Nz)
+
+
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:raikasilva@acad.ifma.edu.br)

@@ -54,11 +54,5 @@ E se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em co
 
 <div align="center"> 
 <a href = "mailto:raikasilva@acad.edu.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-<h3 align="left">
-  <i>📫 Follow me around the web:</i><br>
-  <a href="https://www.linkedin.com/in/argleydson" target="_blank"><img src="https://img.shields.io/badge/Argleydson-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ <href="https://www.linkedin.com/in/argleydson" target="_blank"><img src="https://img.shields.io/badge/Argleydson-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="https://www.instagram.com/raikasoaressilva/profilecard/?igsh=cDdmazNuczRnM3Nz" target="_blank"><img src="https://www.instagram.com/raikasoaressilva/profilecard/?igsh=cDdmazNuczRnM3Nz" alt="Instagram"></a>
-Raikasoares/Raikasoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

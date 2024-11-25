@@ -40,30 +40,18 @@
 
 ## 📊 Algumas estatísticas
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="Visual Studio" alt="Visual Studio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="CSS" width="40" height="40"/>&nbsp;
+  <h3>Top Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raikasoares&theme=tokyonight&layout=compact" alt="Top Languages">
+ 
+  <h3>GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raikasoares&show_icons=true&theme=tokyonight" alt="GitHub Stats of Raikasoares">
+ 
+  <h3>GitHub Streak</h3>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Raikasoares&theme=tokyonight"
+    alt="Raikasoares"
+  >
 
----
-
-<div align = "left">
-<img height = "200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=9Brunodox&show_icons=true&theme=aura&count_private=true"/>
-<img height = "200em" src="https://github-readme-stats.vercel.app/api?username=9Brunodox&show_icons=true&show_icons=true&theme=aura&count_private=true" />
-</div>
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arawns1/Arawns1/blob/output/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arawns1/Arawns1/blob/output/light.svg">
-  <img alt="Mostra uma cobra comendo commits" src="https://github.com/Arawns1/Arawns1/blob/output/dark.svg">
-</picture>
-
-
-
-<br/>
 
 ## 📱 Entre em contato:
 

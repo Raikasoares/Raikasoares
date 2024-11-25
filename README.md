@@ -4,27 +4,19 @@ Bem-vindo ao meu perfil no GitHub! estou  sempre em busca de novos desafios e ap
 
 ## 🚀 Sobre Mim
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, React Native, Node.js, Python, Git e Git GitHub]**
-- 
-- 📫 Como me encontrar: [raikasilva@acad.ifma.edu.br]
   
-- Tenho : 17 anos.
-
-- 📚 Interesses: Leitora apaixonada por livros de romance e fã de doramas.
+- 📚 Hobbes : Leitora de livros de romance e fã de doramas.
 
 - 💻 Formação Profissional:
 Atualmente cursando Informática (2º ano).
 
-Habilidades Pessoais:
+Habilidades Pessoais 
 
 - 🤍 Dedicação e curiosidade em aprender.
 
 - ✨️ Boa capacidade de concentração e atenção aos detalhes (essenciais para programação e estudos).
 
 - 💫 Comunicação e empatia, características adquiridas por meio de interesses culturais.
-
-
-
-
 
 
 <br/>

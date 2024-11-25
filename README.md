@@ -1,13 +1,27 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
+# Olá, eu sou Raika Soares! 👋
 
+Bem-vindo ao meu perfil no GitHub! estou  sempre em busca de novos desafios e aprendizados.
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Olá+bem-vindo+ao+meu+perfil👋;Hello+welcome+to+my+profile👋;Ciao+benvenuto+al+mio+profilo👋;+:%29)](https://git.io/typing-svg)
+## 🚀 Sobre Mim
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, React Native, Node.js, Python, Git e Git GitHub]**
+- 
+- 📫 Como me encontrar: [raikasilva@acad.ifma.edu.br]
+  
+- Tenho : 17 anos.
 
+- 📚 Interesses: Leitora apaixonada por livros de romance e fã de doramas.
 
-## 👩🏽‍💻Quem sou eu 
+- 💻 Formação Profissional:
+Atualmente cursando Informática (2º ano).
 
+Habilidades Pessoais:
 
-Meu nome é Raika, tenho 17 anos, sou estudante de Informática 2 e apaixonada por tecnologia e leitura.📚 Sempre gostei de aprender coisas novas, e é isso que me motiva a explorar tanto o mundo da programação quanto outras áreas do conhecimento
+- 🤍 Dedicação e curiosidade em aprender.
+
+- ✨️ Boa capacidade de concentração e atenção aos detalhes (essenciais para programação e estudos).
+
+- 💫 Comunicação e empatia, características adquiridas por meio de interesses culturais.
+
 
 
 

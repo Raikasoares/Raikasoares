@@ -4,13 +4,16 @@ Bem-vindo ao meu perfil no GitHub! estou  sempre em busca de novos desafios e ap
 
 ## 🚀 Sobre Mim
 - 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, React Native, Node.js, Python, Git e Git GitHub]**
+
+- Tenho 17 anos.
   
 - 📚 Hobbes : Leitora de livros de romance e fã de doramas.
 
-- 💻 Formação Profissional:
-Atualmente cursando Informática (2º ano).
 
 Habilidades Pessoais 
+
+- 💻 Formação Profissional:
+Atualmente cursando Informática (2º ano).
 
 - 🤍 Dedicação e curiosidade em aprender.
 

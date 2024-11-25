@@ -3,9 +3,11 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7B68EE&size=35&center=true&vCenter=true&width=1000&lines=Olá+bem-vindo+ao+meu+perfil👋;Hello+welcome+to+my+profile👋;Ciao+benvenuto+al+mio+profilo👋;+:%29)](https://git.io/typing-svg)
 
+
 ## 👩🏽‍💻Quem sou eu 
 
-🙋🏽‍♀️Meu nome é Raika, tenho 17 anos, sou estudante de Informática 2 e apaixonada por tecnologia e leitura.📚 Sempre gostei de aprender coisas novas, e é isso que me motiva a explorar tanto o mundo da programação quanto outras áreas do conhecimento
+
+Meu nome é Raika, tenho 17 anos, sou estudante de Informática 2 e apaixonada por tecnologia e leitura.📚 Sempre gostei de aprender coisas novas, e é isso que me motiva a explorar tanto o mundo da programação quanto outras áreas do conhecimento
 
 
 
@@ -55,13 +57,6 @@ E se você tiver alguma dúvida ou sugestão, fique à vontade para entrar em co
 
 <div align="center"> 
 <a href = "mailto:raikasilva@acad.edu.br"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/gabriel-damico/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href="https://www.behance.net/arawns_designer" target="_blank"><img src="https://img.shields.io/badge/-Behance-%23333?style=for-the-badge&color=0067ff&logo=behance&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
-<a href = "" target="_blank"> <img src="https://img.shields.io/badge/-discord-%23333?style=for-the-badge&logo=discord&logoColor=white&color=7289da" ></a>
-<a href = "https://www.hackerrank.com/arawns" target ="_blank"> <img src ="https://img.shields.io/badge/-Hackerrank-230077B5?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=footer"/>
 
 <!---
 Raikasoares/Raikasoares is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

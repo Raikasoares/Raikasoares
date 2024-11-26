@@ -20,7 +20,7 @@
 
 - Cursando Informática (2º ano).
 
-- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, Python, Git GitHub]**
+- 🌱 Atualmente, estou aprimorando minhas habilidades em **[Html, Css, JavaScript, Git GitHub]**
 
 ## Habilidades pessoais:
 
@@ -61,9 +61,19 @@
   >
 
 
+
 ## 📱 Entre em contato:
 
 [![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/raikasoaressilva/profilecard/?igsh=cDdmazNuczRnM3Nz)
 
 
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:raikasilva@acad.ifma.edu.br)
+
+
+
+ 
+  <h3>
+  <p align="center">
+  <img align="center" alt="GIF code" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="320" />
+</h3>
+

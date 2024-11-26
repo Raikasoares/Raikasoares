@@ -1,4 +1,4 @@
-# Olá, eu sou Raika Soares! 👋
+# Olá, eu sou Raika Soares! 🙋🏽‍♀️
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2&height=120&section=header"/>
 
@@ -10,6 +10,8 @@
 ## 🚀 Sobre Mim:
   
 - Tenho 17 anos.
+
+- 📍 moro aqui em Açailândia desde de sempre 
   
 - 📚 Adoro livros de romance e sou fã de doramas.
 
@@ -34,13 +36,14 @@
  ## 💻Tecnologias que uso:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp
+![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)
 
 
 ## 📊 Algumas estatísticas
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arawns1&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Gabriel Damico github stats" />
+  <h3>GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=Raikasoares&show_icons=true&theme=tokyonight" alt="GitHub Stats of Raikasoares">
   <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arawns1&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
 </div>
 

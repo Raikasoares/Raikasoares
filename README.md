@@ -34,22 +34,27 @@
  ## 💻Tecnologias que uso:
 ![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
-![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
-![LINUX](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp
 
 
 ## 📊 Algumas estatísticas
 
-  <h3>Top Languages</h3>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raikasoares&theme=tokyonight&layout=compact" alt="Top Languages">
- 
-  <h3>GitHub Stats</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=Raikasoares&show_icons=true&theme=tokyonight" alt="GitHub Stats of Raikasoares">
- 
-  <h3>GitHub Streak</h3>
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=Raikasoares&theme=tokyonight"
-    alt="Raikasoares"
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=arawns1&show_icons=true&count_private=true&hide_border=true&title_color=7B68EE&icon_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" alt="Gabriel Damico github stats" />
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arawns1&layout=compact&hide_border=true&title_color=7B68EE&text_color=D3D3D3&bg_color=0d1117" />
+</div>
+
+
+
+  
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Arawns1/Arawns1/blob/output/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Arawns1/Arawns1/blob/output/light.svg">
+  <img alt="Mostra uma cobra comendo commits" src="https://github.com/Arawns1/Arawns1/blob/output/dark.svg">
+</picture>
+
+
+
+    
   >
 
 
